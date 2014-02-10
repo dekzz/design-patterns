@@ -1,0 +1,1 @@
+Structure change management, competition simulator
